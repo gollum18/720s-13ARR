@@ -1,5 +1,5 @@
 # LEGAL NOTICE
-You assume all responsibilty for using these files and become liable for any damages that may result by doing so. These files are provided AS-IS and are not provided under any warranty implied or express. These filkes are Copyright Lenovo. Any attempt to dissasemble, modify, or reverse engineer them may result in legal issues with Lenovo. I am merely providing them, unaltered and in their original state, so that as a last resort, you may recover your bricked laptop using a serial programmer or BIOS flasher. 
+You assume all responsibilty for using these files and become liable for any damages that may result by doing so. These files are provided AS-IS and are not provided under any warranty implied or express. These files are Copyright &copy; Lenovo. Any attempt to dissasemble, modify, or reverse engineer them may result in legal issues with Lenovo. I am merely providing them, unaltered and in their original state, so that as a last resort, you may recover your bricked laptop using a serial programmer or BIOS flasher. 
 
 ## BIOS
 Contains BIOS files for the 720s-13ARR. These files were extracted from the fd files found in Lenovos original installers for the BIOS updates. 
