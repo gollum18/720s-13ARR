@@ -37,5 +37,5 @@ I cannot perform this for you, as I lack the skills to do so myself.
 **WARNING** Do not install V30 or below if you are on V37+, there is no reason to do so and they will likely brick your machine.
 
 
-##UPDATES
+## UPDATES
 UPDATE May 22nd, 2019: I have updated the repository to include the readme text for each release. I have also uploaded the most recent raw BIOS images from Lenovo up through December 2018. 
