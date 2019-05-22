@@ -1,0 +1,89 @@
+Flash BIOS update - Flash from Operating System version for 720S-13ARR
+
+Version 6KCN30WW
+
+Applicable OS Windows 10(64-bit)
+
+Installation README
+Updated Date: 2018-07-04
+This package updates the basic input/output system (BIOS) on 720S-13ARR
+
+BIOS, abbreviation of Basic Input£¯Output System, is integrated in ROM chip on main board, which contains the basic input/output program, system configuration information, system startup self-check and pre-setup programs. BIOS provides most basic low-level hardware operations; it is the connection between software and hardware, and interfacing window of hardware and operating system.
+
+Note: Make note of any settings you have changed in the BIOS Configuration Utility. These settings may have to be re-entered after updating the BIOS.
+
+Attention: Do not power off or restart your computer during the BIOS flashing process, which will cause serious damage and improper functioning of your computer.
+
+Print this file so that you can refer to it during the installation.
+
+Downloading the package
+=======================
+1. Click the file link to download the file from the web page.
+2. When prompted, select a drive and directory in which to save the downloaded file.
+
+Installing the package in Windows.
+======================
+Please follow bellowed step to update BIOS in Windows:
+1. Locate the file 6kcn30ww.exe that has been downloaded.
+2. Double click the 6kcn30ww.exe icon.
+3. Follow wizard UI by making sure what BIOS to flash and flash on what platform
+4. Finally press Install & Finish to start flashing. During the process, you are advised not to turn off the computer.
+5. When the update finishes, the computer will automatically reboot for the changes to take effect.
+
+Important notice:
+################################################################################################################
+1. BIOS 6KCN30WW is upgrade for shipping RS2 preload with BIOS 6KCN27/28/29WW;
+2. For product line, please don¡¯t cut in this version BIOS;
+3. For PA test this BIOS, please contact with RD for BIOS rework to V29 firstly;
+4. For web release, no need to upload to web. This BIOS update will be released to end-user via critical WU and critical TVSU;
+5. For service use, please use FlashIt.nsh for shell flash or BIOSUpdate.bat for Windows flash.
+6. For AMD driver update, please also help to release the latest signed off AMD driver via critical WU by CHID3 to maintain BIOS V30 computer hardware ID;
+7. Please don¡¯t flash back to this version from 6KCN35WW or newer, or it will cause the system could not power on or variable data lost.
+################################################################################################################
+
+Updated Information:
+
+Latest Version BIOS fixed all merged issues from previous.
+
+Summary of changes
+==================
+General Information:
+
+6KCN30WW
+BIOS Notification:
+1. Fixed
+   1) None.
+   
+2. Add
+   1) None.
+
+3. Modified
+   1) Update code base to fully support RS3 AMD driver version 23.20.822.256 or later.
+
+EC Notification:
+1. Fixed
+   1) None.
+
+2. Add
+   1) None.
+
+3. Modified
+   1) None.
+
+
+Trademarks
+==========
+IdeaPad and IdeaCentre are registered trademarks of Lenovo.
+
+Microsoft and Windows are trademarks of Microsoft Corporation in 
+the United States, other countries, or both. Other company, product, 
+and service names may be trademarks or service marks of others.
+
+THIS DOCUMENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.  
+WE DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, 
+INCLUDING WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF FITNESS 
+FOR A PARTICULAR PURPOSE AND MERCHANTABILITY WITH RESPECT TO THE 
+INFORMATION IN THIS DOCUMENT.  BY FURNISHING THIS DOCUMENT, WEGRANT 
+NO LICENSES TO ANY PATENTS OR COPYRIGHTS.
+
+Copyright (c) Lenovo 2008, all rights reserved
